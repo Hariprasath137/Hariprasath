@@ -32,7 +32,8 @@ public class StepDefenition extends BaseClass {
 	   type(p.getUsername(), "digitalindia");
 	   type(p.getPassword(), "987654321");
 	   btnclick(p.getLoginbtn());
-	    
+	    System.out.println("Madara Uchiha");
 	}
+
 
 }
